@@ -1,3 +1,3 @@
-# Clanquish-Chronicles
-RPG Game created with Python
+# Ranyel Valley
+Farm Game created with Python
 by python master
